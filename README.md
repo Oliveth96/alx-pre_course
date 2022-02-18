@@ -1,1 +1,1 @@
-$A not emply rad me file
+$A not emply read me file
